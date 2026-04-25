@@ -13,5 +13,3 @@ Integrantes:
 ## Objetivo del proyecto
 Aprender a trabajar en equipo utilizando control de versiones mientras paralelamente hacemos uso de la organización de tareas con Trello.
 
-## A partir de aqui podeis poner el contenido opcional que querais
-
