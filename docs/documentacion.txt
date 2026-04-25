@@ -1,0 +1,11 @@
+## Documentación del Proyecto
+
+  Este proyecto ha sido realizado por el grupo 4.
+
+El objetivo ha sido aprender a trabajar en equipo utilizando:
+
+- Git
+- GitHub
+- Ramas
+- Pull Requests
+- Organización de tareas con Trello
